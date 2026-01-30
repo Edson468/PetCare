@@ -295,9 +295,8 @@ Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICEN
 
 Para dúvidas ou suporte, entre em contato:
 
-📧 **Email**: contato@petcareplus.com.br  
-📱 **WhatsApp**: (11) 99999-9999  
-🌐 **Website**: https://petcareplus.com.br
+📧 **Email**: edson4518@gmail.com 
+📱 **WhatsApp**: (85) 987855611  
 
 ---
 
@@ -346,13 +345,3 @@ git push
 
 ---
 
-## ✅ Pronto!
-
-Seu repositório agora terá um README profissional e completo! 🎉
-
-**Dicas finais:**
-- Substitua `SEU_USUARIO` pelo seu nome de usuário do GitHub
-- Adicione screenshots reais do seu projeto nas seções de imagens
-- Personalize as informações de contato conforme necessário
-
-Quer que eu ajude com mais alguma coisa? 🚀
