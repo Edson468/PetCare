@@ -310,38 +310,4 @@ Para dúvidas ou suporte, entre em contato:
 
 ---
 
-<div align="center">
-  <strong>🐾 Cuidando do seu melhor amigo com amor e profissionalismo 🐾</strong>
-</div>
-```
-
----
-
-## 📝 Como Adicionar ao Repositório
-
-### Opção 1: Criar via terminal
-
-```bash
-cd ~/Documents/Pet-pet
-
-# Crie o arquivo README.md
-cat > README.md << 'EOF'
-# Cole todo o conteúdo acima aqui
-EOF
-
-# Adicione ao git
-git add README.md
-git commit -m "docs: adiciona README completo com documentação"
-git push
-```
-
-### Opção 2: Criar via GitHub
-
-1. Acesse seu repositório no GitHub
-2. Clique em **"Add file"** → **"Create new file"**
-3. Nomeie o arquivo como `README.md`
-4. Cole todo o conteúdo acima
-5. Clique em **"Commit new file"**
-
----
 
